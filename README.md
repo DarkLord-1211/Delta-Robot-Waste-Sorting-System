@@ -611,7 +611,7 @@ Possible future improvements include:
 * 📁 **Source Code & Project Files:** [Google Drive](https://drive.google.com/drive/folders/1z2LHvW9smXeys8wqO5F9xNO900CT9vLV?usp=drive_link)
 * 📘 **Project Report:** [Report](https://drive.google.com/drive/folders/1jhONOlfQdbjyHl7gKiDh_cfU6idxjVZu?usp=drive_link)
 * 🎥 **Demo Video:** [Video](https://youtu.be/10hCros1-0s?si=pNFOOmxHcS4x_66E)
-* 💻 **GitHub Repository:** [Repository](LINK_GITHUB)
+* 💻 **GitHub Repository:** [Repository](https://github.com/DarkLord-1211/Delta-Robot-Waste-Sorting-System)
 
 ---
 
