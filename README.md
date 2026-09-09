@@ -1,4 +1,4 @@
-<img width="1378" height="886" alt="Screenshot 2026-07-20 011707" src="https://github.com/user-attachments/assets/3b9b00d4-7e32-4769-98d5-4c9f0bd06c09" /># 🤖 DELTA ROBOT – AUTOMATED PICKING AND SORTING SYSTEM
+/># 🤖 DELTA ROBOT – AUTOMATED PICKING AND SORTING SYSTEM
 
 > **Graduation Project – Design, Fabrication, and Control of a DELTA Robot Integrated with Computer Vision, PLC, and C# Software**
 
