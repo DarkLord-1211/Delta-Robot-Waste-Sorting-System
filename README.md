@@ -32,7 +32,7 @@ The main objective of this project is to develop a DELTA Robot system capable of
 6. Moving and placing products at their corresponding sorting positions.
 7. Providing an interface for operators to monitor and control the system.
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a35aa401-3aea-4277-a383-63f5e0a82767" />
+<img width="2560" height="1440" alt="image" src="Image_Git/robot_overview.png" />
 
 ---
 
@@ -55,7 +55,7 @@ The main objective of this project is to develop a DELTA Robot system capable of
 | Mechanical design      | SolidWorks             |
 
 
-<!-- 🖼️ INSERT IMAGE: Overall drawing of the DELTA Robot with 660 × 660 × 600 mm dimensions -->
+
 
 ---
 
@@ -103,7 +103,7 @@ The system is developed as an integrated architecture consisting of the **Camera
                     └─────────────────┘
 ```
 
-<img width="810" height="717" alt="Screenshot 2026-07-13 014548" src="https://github.com/user-attachments/assets/54cfff67-c7cc-4542-9fee-f6d94d308899" />
+<img width="810" height="717" alt="Screenshot 2026-07-13 014548" src="Image_Git/Overall_System_Architecture.png" />
 
 
 ### 🔄 General Operating Principle
@@ -162,14 +162,15 @@ The mechanical design was developed based on several requirements:
 * Assembly and maintenance requirements.
 * End-effector mass.
 * Required motion performance.
+Mechanical Design
 
-<img width="825" height="832" alt="Screenshot 2026-07-08 170414" src="https://github.com/user-attachments/assets/dfef9fae-92a8-4b38-a0f3-abce03fd308c" />
-
-
-<img width="588" height="665" alt="Screenshot 2026-07-28 194922" src="https://github.com/user-attachments/assets/957506cc-84e5-4d7a-996d-0a9c90475747" />
+<img width="825" height="832" alt="Screenshot 2026-07-08 170414" src="Image_Git/Mechanical_Design.png" />
 
 
-<img width="681" height="738" alt="image" src="https://github.com/user-attachments/assets/a0c4ed22-99f6-4151-9e02-2bc0deb22499" />
+<img width="588" height="665" alt="Screenshot 2026-07-28 194922" src="Image_Git/Exploded_View.png" />
+
+
+<img width="681" height="738" alt="image" src="Image_Git/overall_design_mechanical.png" />
 
 
 ---
