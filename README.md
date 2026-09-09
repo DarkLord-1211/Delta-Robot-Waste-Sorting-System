@@ -480,7 +480,7 @@ Because some design files, source code, and project documents are relatively lar
 
 ### 📁 Google Drive
 
-**[🔗 Access Complete Project Files](LINK_GOOGLE_DRIVE)**
+**[🔗 Access Complete Project Files](https://drive.google.com/drive/folders/1acIRnmZN9rkpttabnRZ9SYvg-8MFvuos?usp=drive_link)**
 
 The folder contains:
 
@@ -498,29 +498,12 @@ The folder contains:
 
 ### 📘 Project Report
 
-**[🔗 View / Download Project Report](LINK_REPORT)**
+**[🔗 View / Download Project Report](https://drive.google.com/drive/folders/1jhONOlfQdbjyHl7gKiDh_cfU6idxjVZu?usp=drive_link)**
 
 ---
 
-# 🖼️ 15. Project Gallery
 
-<!-- 🖼️ INSERT IMAGE: Final project overview -->
-
-<!-- 🖼️ INSERT IMAGE: DELTA Robot -->
-
-<!-- 🖼️ INSERT IMAGE: Electrical control cabinet -->
-
-<!-- 🖼️ INSERT IMAGE: C# software interface -->
-
-<!-- 🖼️ INSERT IMAGE: Camera / vision system -->
-
-<!-- 🖼️ INSERT IMAGE: Robot picking a product -->
-
-<!-- 🖼️ INSERT IMAGE: Robot sorting products -->
-
----
-
-# 🧰 16. Technologies Used
+# 🧰 15. Technologies Used
 
 ### Software
 
@@ -535,8 +518,8 @@ The folder contains:
 
 * 3-DOF DELTA Robot.
 * PLC.
-* Servo Drives.
-* Servo Motors.
+* Stepper Drives.
+* Stepper Motors.
 * Camera.
 * Sensors.
 * Solenoid valves.
@@ -551,7 +534,7 @@ The folder contains:
 
 ---
 
-# 🏆 17. Project Highlights
+# 🏆 16. Project Highlights
 
 This project combines several engineering disciplines into a single automated robotic system:
 
@@ -592,7 +575,7 @@ The main subsystems are integrated as follows:
 
 ---
 
-# 🚀 18. Future Development
+# 🚀 17. Future Development
 
 Possible future improvements include:
 
@@ -607,7 +590,7 @@ Possible future improvements include:
 
 ---
 
-# 👨‍💻 19. Project Information
+# 👨‍💻 18. Project Information
 
 | Item                  | Information                                      |
 | --------------------- | ------------------------------------------------ |
@@ -623,7 +606,7 @@ Possible future improvements include:
 
 ---
 
-# 🔗 20. Project Links
+# 🔗 19. Project Links
 
 * 📁 **Source Code & Project Files:** [Google Drive](LINK_GOOGLE_DRIVE)
 * 📘 **Project Report:** [Report](LINK_REPORT)
