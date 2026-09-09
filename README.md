@@ -456,7 +456,7 @@ The developed system successfully integrates the following major components:
 
 The demonstration video is stored externally to keep the GitHub repository lightweight.
 
-▶️ **Demo Video:** **[🔗Youtube](https://youtu.be/10hCros1-0s?si=66yPnu68rbqmf5BI)**
+▶️ **Demo Video:** **[🔗 Youtube](https://youtu.be/10hCros1-0s?si=66yPnu68rbqmf5BI)**
 
 The demonstration includes:
 
@@ -608,9 +608,9 @@ Possible future improvements include:
 
 # 🔗 19. Project Links
 
-* 📁 **Source Code & Project Files:** [Google Drive](LINK_GOOGLE_DRIVE)
-* 📘 **Project Report:** [Report](LINK_REPORT)
-* 🎥 **Demo Video:** [Video](LINK_VIDEO)
+* 📁 **Source Code & Project Files:** [Google Drive](https://drive.google.com/drive/folders/1z2LHvW9smXeys8wqO5F9xNO900CT9vLV?usp=drive_link)
+* 📘 **Project Report:** [Report](https://drive.google.com/drive/folders/1jhONOlfQdbjyHl7gKiDh_cfU6idxjVZu?usp=drive_link)
+* 🎥 **Demo Video:** [Video](https://youtu.be/10hCros1-0s?si=pNFOOmxHcS4x_66E)
 * 💻 **GitHub Repository:** [Repository](LINK_GITHUB)
 
 ---
