@@ -456,7 +456,7 @@ The developed system successfully integrates the following major components:
 
 The demonstration video is stored externally to keep the GitHub repository lightweight.
 
-▶️ **Demo Video:** https://youtu.be/10hCros1-0s?si=66yPnu68rbqmf5BI
+▶️ **Demo Video:** **[🔗Youtube](https://youtu.be/10hCros1-0s?si=66yPnu68rbqmf5BI)**
 
 The demonstration includes:
 
