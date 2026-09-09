@@ -1,4 +1,4 @@
-# 🤖 DELTA ROBOT – AUTOMATED PICKING AND SORTING SYSTEM
+<img width="1378" height="886" alt="Screenshot 2026-07-20 011707" src="https://github.com/user-attachments/assets/3b9b00d4-7e32-4769-98d5-4c9f0bd06c09" /># 🤖 DELTA ROBOT – AUTOMATED PICKING AND SORTING SYSTEM
 
 > **Graduation Project – Design, Fabrication, and Control of a DELTA Robot Integrated with Computer Vision, PLC, and C# Software**
 
@@ -54,7 +54,6 @@ The main objective of this project is to develop a DELTA Robot system capable of
 | C# – PLC communication | Modbus                 |
 | Mechanical design      | SolidWorks             |
 
-> **Note:** The specifications above should be updated if the final values in the project report or engineering drawings are different.
 
 <!-- 🖼️ INSERT IMAGE: Overall drawing of the DELTA Robot with 660 × 660 × 600 mm dimensions -->
 
@@ -104,7 +103,8 @@ The system is developed as an integrated architecture consisting of the **Camera
                     └─────────────────┘
 ```
 
-<!-- 🖼️ INSERT IMAGE: Complete system architecture diagram -->
+<img width="810" height="717" alt="Screenshot 2026-07-13 014548" src="https://github.com/user-attachments/assets/54cfff67-c7cc-4542-9fee-f6d94d308899" />
+
 
 ### 🔄 General Operating Principle
 
@@ -123,7 +123,7 @@ Data Transmission to Control System
       ↓
 Robot Position Calculation
       ↓
-PLC Controls Servo Motors
+PLC Controls Step Motors
       ↓
 Robot Moves to Picking Position
       ↓
@@ -163,11 +163,14 @@ The mechanical design was developed based on several requirements:
 * End-effector mass.
 * Required motion performance.
 
-<!-- 🖼️ INSERT IMAGE: 3D model of the DELTA Robot in SolidWorks -->
+<img width="825" height="832" alt="Screenshot 2026-07-08 170414" src="https://github.com/user-attachments/assets/dfef9fae-92a8-4b38-a0f3-abce03fd308c" />
 
-<!-- 🖼️ INSERT IMAGE: Exploded view of the DELTA Robot -->
 
-<!-- 🖼️ INSERT IMAGE: Overall mechanical drawing -->
+<img width="588" height="665" alt="Screenshot 2026-07-28 194922" src="https://github.com/user-attachments/assets/957506cc-84e5-4d7a-996d-0a9c90475747" />
+
+
+<img width="681" height="738" alt="image" src="https://github.com/user-attachments/assets/a0c4ed22-99f6-4151-9e02-2bc0deb22499" />
+
 
 ---
 
@@ -180,7 +183,8 @@ The designed workspace has:
 * Workspace radius: **Rc = 200 mm**
 * Workspace height: **H = 225 mm**
 
-<!-- 🖼️ INSERT IMAGE: DELTA Robot workspace diagram -->
+<img width="980" height="980" alt="Figure_1" src="https://github.com/user-attachments/assets/cbe679ab-0d57-4042-adbd-f6e99ab34957" />
+
 
 ---
 
@@ -212,17 +216,16 @@ The electrical system is designed to provide reliable control of the Robot, proc
                    │
         ┌──────────┼──────────┐
         ▼          ▼          ▼
-     Servo       Sensors     Valve
+       Step     Sensors     Valve
         │
         ▼
     DELTA Robot
 ```
 
-<!-- 🖼️ INSERT IMAGE: Actual electrical control cabinet -->
+<img width="1440" height="2560" alt="image" src="https://github.com/user-attachments/assets/758693a8-a7f0-4ba5-8382-d5f5a8b67914" />
 
-<!-- 🖼️ INSERT IMAGE: Electrical schematic -->
 
-<!-- 🖼️ INSERT IMAGE: PLC – Servo – Sensor – Valve connection diagram -->
+<img width="857" height="741" alt="Screenshot 2026-07-28 202913" src="https://github.com/user-attachments/assets/a97977dd-905c-4458-a772-c62dca2c43c6" />
 
 ---
 
@@ -238,19 +241,24 @@ The main functions include:
 
 Provides user authentication before accessing the control functions.
 
-<!-- 🖼️ INSERT IMAGE: Login interface -->
+<img width="921" height="615" alt="Screenshot 2026-07-19 225313" src="https://github.com/user-attachments/assets/d92f013a-6aa1-4022-946a-abbe40fe743e" />
+
 
 ### 🏠 Home
+<img width="1200" height="677" alt="Screenshot 2026-07-19 233542" src="https://github.com/user-attachments/assets/bc7505a9-6929-48f7-a601-7bb90f3cbbe3" />
+
 
 Returns the Robot to its initial position and checks the system status.
 
-<!-- 🖼️ INSERT IMAGE: Home interface -->
+<img width="115" height="201" alt="image" src="https://github.com/user-attachments/assets/e8f3a434-a887-4257-8dbb-cbbbdf70cec3" />
+
 
 ### 🎮 Manual Control
 
 Allows the operator to manually control the Robot.
 
-<!-- 🖼️ INSERT IMAGE: Manual control interface -->
+<img width="315" height="374" alt="image" src="https://github.com/user-attachments/assets/927ad112-f5b5-4c3d-8b22-3ee3b3ab7b0d" />
+
 
 ### 📐 IK / FK
 
@@ -259,19 +267,21 @@ The software supports:
 * **Forward Kinematics (FK)** – calculating the end-effector position from the joint angles.
 * **Inverse Kinematics (IK)** – calculating the required joint angles from the desired end-effector position.
 
-<!-- 🖼️ INSERT IMAGE: IK / FK interface -->
+<img width="248" height="384" alt="image" src="https://github.com/user-attachments/assets/c4e9ceff-9101-4e7f-a0fc-f064b2919e35" />
+
 
 ### 📋 Position Table
 
 Allows the operator to configure and execute a sequence of predefined Robot positions.
 
-<!-- 🖼️ INSERT IMAGE: Position table interface -->
+<img width="371" height="374" alt="image" src="https://github.com/user-attachments/assets/c592e5ca-54bd-4281-ab3a-f7a167b84160" />
 
 ### 🤖 Automatic Mode
 
 The automatic mode allows the system to perform the complete product picking and sorting cycle automatically.
 
-<!-- 🖼️ INSERT IMAGE: Automatic mode interface -->
+<img width="954" height="653" alt="Screenshot 2026-07-19 234358" src="https://github.com/user-attachments/assets/912ecab3-254c-46b4-a973-50cf1d639c9c" />
+
 
 ---
 
@@ -375,10 +385,6 @@ Inverse Kinematics is used to determine the required joint angles from the desir
  θ1, θ2, θ3
 ```
 
-<!-- 🖼️ INSERT IMAGE: DELTA Robot coordinate system -->
-
-<!-- 🖼️ INSERT IMAGE: IK / FK calculation interface -->
-
 ---
 
 # 🏭 11. Automatic Operating Cycle
@@ -417,7 +423,6 @@ The vacuum system is controlled to release the product at the target position.
 
 The Robot returns to the ready position and starts the next cycle.
 
-<!-- 🖼️ INSERT IMAGE: Sequence of the DELTA Robot picking and sorting products -->
 
 ---
 
@@ -441,9 +446,9 @@ The developed system successfully integrates the following major components:
 | Product picking               | ✅ Completed |
 | Product sorting               | ✅ Completed |
 
-<!-- 🖼️ INSERT IMAGE: Robot picking a product -->
+<img width="1302" height="874" alt="Screenshot 2026-07-20 011557" src="https://github.com/user-attachments/assets/5cafe952-26fa-48b5-b3fc-0a8a4d236c03" />
 
-<!-- 🖼️ INSERT IMAGE: Robot sorting products -->
+<img width="1378" height="886" alt="Screenshot 2026-07-20 011707" src="https://github.com/user-attachments/assets/e2b93788-af9e-496f-835b-b5964032fea1" />
 
 ---
 
@@ -451,7 +456,7 @@ The developed system successfully integrates the following major components:
 
 The demonstration video is stored externally to keep the GitHub repository lightweight.
 
-▶️ **Demo Video:** [Google Drive / YouTube]
+▶️ **Demo Video:** https://youtu.be/10hCros1-0s?si=66yPnu68rbqmf5BI
 
 The demonstration includes:
 
@@ -464,7 +469,8 @@ The demonstration includes:
 * Automatic operation.
 * Product picking and sorting.
 
-<!-- 🖼️ INSERT IMAGE: Demo video thumbnail -->
+<img width="1919" height="1079" alt="Screenshot 2026-08-02 233056" src="https://github.com/user-attachments/assets/9cd7feeb-4006-4fa5-a011-079a3e813428" />
+
 
 ---
 
