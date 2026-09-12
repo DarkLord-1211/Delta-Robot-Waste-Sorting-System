@@ -486,15 +486,13 @@ Because some design files, source code, and project documents are relatively lar
 The folder contains:
 
 ```text
-📁 C# Source Code
+📁 C# Source Code & C# – PLC Communication Libraries
 📁 PLC Program
-📁 C# – PLC Communication Libraries
 📁 SolidWorks Files
 📁 Mechanical Drawings
 📁 Electrical Drawings
 📁 Graduation Project Report
-📁 Presentation Slides
-📁 Demonstration Videos
+📁 Presentation Slides & Demonstration Videos
 ```
 
 ### 📘 Project Report
